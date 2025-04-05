@@ -55,3 +55,4 @@ Para profundizar en el uso de estos y otros comandos, consulta este recurso:
 [Mejores comandos Linux Bash](https://sanchezcorbalan.es/mejores-comandos-linux-bash/)
 
 ¡Sigue practicando y explorando estos comandos para mejorar tu productividad en la terminal
+q
